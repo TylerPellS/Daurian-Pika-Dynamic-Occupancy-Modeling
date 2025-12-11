@@ -4,4 +4,4 @@
 
 "dyn_occ_V3.stan" Is the stan file which contains the bayesian dynamic occupancy model that gets run through R.
 
-The other R code scripts are supplemental code for plotting trend plots on phi, gamma and psi. It also includes code for running partial effects plots for each variable.
+The other R code scripts are supplemental code for plotting trend plots on phi, gamma and psi. It also includes code for running partial effects plots for each variable. I recommend using "Flood_Vs_Persistence.R", "Partial_Effects_Plots.R", and "Modeled_Phi_Vs_Gamma.R". These are the most up-to-date code for plotting aspects of the model.
